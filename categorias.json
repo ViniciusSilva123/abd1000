@@ -1,0 +1,34 @@
+{
+    "categorias": [
+        {
+            "categoria": "."
+        },
+        {
+            "categoria": "CERVEJA "
+        },
+        {
+            "categoria": "WHISKY "
+        },
+        {
+            "categoria": "GIN "
+        },
+        {
+            "categoria": "VODKA "
+        },
+        {
+            "categoria": "CACHAÇA "
+        },
+        {
+            "categoria": "VINHO "
+        },
+        {
+            "categoria": "REFRIGERANTE "
+        },
+        {
+            "categoria": "ENERGÉTICO "
+        },
+        {
+            "categoria": "CIGARRO "
+        }
+    ]
+}

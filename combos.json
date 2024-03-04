@@ -1,0 +1,542 @@
+[
+  {
+    "listaWhisky": [
+      {
+        "tipo": "GOLD LABEL",
+
+        "imggarrafa": "https://dkolopwjqarcp.cloudfront.net/Custom/Content/Products/07/44/0744_johnnie-walker-gold-label-reserve-750ml_z1_637660212544685500.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY GOLD LABEL RESERVE 750ML",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "320,00"
+      },
+      {
+        "tipo": "DOUBLE BLACK",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/61HazVB4rkL.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY DOUBLE BLACK 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "255,00"
+      },
+      {
+        "tipo": "BLACK LABEL",
+
+        "imggarrafa": "https://carrefourbrfood.vtexassets.com/arquivos/ids/97509028/whisky-johnnie-walker-black-label-1l-1.jpg?v=638100838208600000",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY BLACK LABEL 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "220,00"
+      },
+      {
+        "tipo": "RED LABEL",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/61k+AKCaDgL.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY RED LABEL 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "155,00"
+      },
+      {
+        "tipo": "JACK DANIELS GENTLEMAN",
+
+        "imggarrafa": "https://images.tcdn.com.br/img/img_prod/686651/whiskey_jack_daniel_s_gentleman_jack_1l_15503768_1_20190308181636.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY JACK DANIEL GENTLEMAN 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "275,00"
+      },
+      {
+        "tipo": "WHISKY JACK DANIELS",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/61+XosyvBcL.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY JACK DANIELS WHISKEY 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "195,00"
+      },
+      {
+        "tipo": "WHISKY JACK DANIELS SABOR",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/71krnUElKKL.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY JACK DANIELS SABOR 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "200,00"
+      },
+      {
+        "tipo": "BUCHANAS DELUXE",
+
+        "imggarrafa": "https://diageo.vtexassets.com/arquivos/ids/163464-800-800?v=638294277978570000&width=800&height=800&aspect=true",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY BUCHANANS DELUXE 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "240,00"
+      },
+      {
+        "tipo": "OLD PARR",
+
+        "imggarrafa": "https://media.cotabest.com.br/media/sku/whisky-escoces-old-parr-garrafa-1litro-old-parr-un-80a381562b.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY OLD PARR 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "205,00"
+      },
+      {
+        "tipo": "CHIVAS RAGEL",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/51pLvcYPoYL.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY CHIVAS REGAL 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "195,00"
+      },
+      {
+        "tipo": "JIM BEAM",
+
+        "imggarrafa": "https://www.emporiofreicaneca.com.br/wp-content/uploads/2020/05/Whiskey-Jim-Beam-White-Bourbon-1L.png",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY JIM BEAM WHITE BOURBOM 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "165,00"
+      },
+      {
+        "tipo": "BALLANTINES FINEST",
+
+        "imggarrafa": "https://trend-files-public-prod.s3.us-east-1.amazonaws.com/products/photos/2021/10/bbf4bd20-a535-4d0b-8362-9e150878eab0.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY BALLANTINES FINEST 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "140,00"
+      },
+      {
+        "tipo": "PASSPORT SCOTCH",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/51UYCrFpn5S.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY PASSPORT SCOTCH 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "115,00"
+      },
+      {
+        "tipo": "COCKLAND GOLD",
+
+        "imggarrafa": "https://images.tcdn.com.br/img/img_prod/1199398/whisky_cockland_gold_1l_419_1_96b8c2228b8d390389a888d9b507f011.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY COCKLAND GOLD 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "100,00"
+      },
+      {
+        "tipo": "WHITE HORSE",
+
+        "imggarrafa": "https://cdn.awsli.com.br/600x450/91/91186/produto/3259990/white-horse-01-ta7mwzc8iv.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY WHITE HORSE 1L",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "140,00"
+      },
+      {
+        "tipo": "WHITE HORSE",
+
+        "imggarrafa": "https://cdn.dooca.store/16278/products/pxkcnlazriwgccgvrlvuumog70p7q251dkwh.png?v=1646833740&webp=0",
+        "quantgarrafa": "1x ",
+        "garrafa": "WHISKY WHITE HORSE 500ML",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "3x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "3x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "75,00"
+      }
+    ]
+  },
+  {
+    "listaGin": [
+      {
+        "tipo": "BEEFEATER PINK",
+
+        "imggarrafa": "https://cdn.awsli.com.br/1231/1231345/produto/54423933/21666e55ad.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN BEEFEATER PINK 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "180,00"
+      },
+      {
+        "tipo": "BEEFEATER",
+
+        "imggarrafa": "https://images.tcdn.com.br/img/img_prod/584235/gin_london_dry_750ml_beefeater_438982601_1_df803eb379e13711923189743eaa4918.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN BEEFEATER 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "160,00"
+      },
+      {
+        "tipo": "TANQUERAY",
+
+        "imggarrafa": "https://diageo.vtexassets.com/arquivos/ids/162941-800-800?v=638247663115800000&width=800&height=800&aspect=true",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN TANQUERAY 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "170,00"
+      },
+      {
+        "tipo": "BOMBAY",
+
+        "imggarrafa": "https://www.emporiofreicaneca.com.br/wp-content/uploads/2018/11/gin-bombay.png",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN BOMBAY 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "155,00"
+      },
+      {
+        "tipo": "GORDONS PINK",
+
+        "imggarrafa": "https://diageo.vtexassets.com/arquivos/ids/162977-800-800?v=638248493930400000&width=800&height=800&aspect=true",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN GORDONS PINK 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "140,00"
+      },
+      {
+        "tipo": "GORDONS",
+
+        "imggarrafa": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToTbr30ee5yBoouamsg1uaW_dWpvBkLKJG0lZQJDFAEatsEhKo",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN GORDONS 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "135,00"
+      },
+      {
+        "tipo": "ETERNITY SABOR",
+
+        "imggarrafa": "https://diadistribuicao.agilecdn.com.br/19380_1.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN ETERNITY SABOR 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "85,00"
+      },
+      {
+        "tipo": "ETERNITY",
+
+        "imggarrafa": "https://www.melobebida.com.br/img/products/gin-eternity-london-dry-gin-900ml-10144_1_650.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN ETERNITY 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "85,00"
+      },
+      {
+        "tipo": "ROCKS PINK",
+
+        "imggarrafa": "https://http2.mlstatic.com/D_Q_NP_943886-MLU48308038245_112021-O.webp",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN ROCKS PINK 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "90,00"
+      },
+      {
+        "tipo": "ROCKS",
+
+        "imggarrafa": "https://images.tcdn.com.br/img/img_prod/1213476/gin_rocks_dry_1_litro_2375_1_bddfaf0ed7fcf3159b2a06d12e42a4d4.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "GIN ROCKS 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "90,00"
+      }
+    ]
+  },
+
+  {
+    "listaVodka": [
+      {
+        "tipo": "ABSOLUT SABOR",
+
+        "imggarrafa": "https://m.media-amazon.com/images/I/71bpGOo9wGL.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "VODKA ABSOLUT WATERMELON 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "150,00"
+      },
+      {
+        "tipo": "ABSOLUT",
+
+        "imggarrafa": "https://images.tcdn.com.br/img/img_prod/686651/vodka_absolut_1l_14084461_1_e79c65d9e15ffe1e49f060f3acd516cf.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "VODKA ABSOLUT 1L",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "145,00"
+      },
+      {
+        "tipo": "SMIRNOFF",
+
+        "imggarrafa": "https://images.tcdn.com.br/img/img_prod/1161470/vodka_smirnoff_red_998_ml_2093_1_dede92e16b127675e5dd6589382f0fbe.jpeg",
+        "quantgarrafa": "1x ",
+        "garrafa": "VODKA SMIRNOFF 998ML",
+
+        "imgenergetico": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+
+        "imggelo": "https://i0.wp.com/gobebidas.com.br/wp-content/uploads/2020/05/OU0005-1.png?fit=512%2C512&ssl=1",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE COCO 200ML",
+
+        "preco": "100,00"
+      },
+      {
+        "tipo": "ASKOV SABOR",
+
+        "imggarrafa": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/2624_big.jpg",
+        "quantgarrafa": "1x ",
+        "garrafa": "VODKA ASKOV SABOR 900ML",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://delivery.blacktiger.com.br/wp-content/uploads/2023/03/gelodemelanciadeliveryguarulhos-2.png",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "70,00"
+      },
+      {
+        "tipo": "ASKOV",
+
+        "imggarrafa": "https://apoioentrega.vteximg.com.br/arquivos/ids/525858/https---repo-outsystems.png?v=638279246323200000",
+        "quantgarrafa": "1x ",
+        "garrafa": "VODKA ASKOV 900ML",
+
+        "imgenergetico": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "quantenergetico": "6x ",
+        "energetico": "ENERGÉTICO RED BULL SABOR 250ML",
+
+        "imggelo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yoyG-ot3vagLUhOM2L9d3bjQjTiDDHvT7S1ynj-H-wQ-uHl",
+        "quantgelo": "6x ",
+        "gelo": "GELO DE SABOR 200ML",
+
+        "preco": "70,00"
+      }
+    ]
+  }
+]

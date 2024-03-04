@@ -1,0 +1,864 @@
+{
+    "listaProdutos": [
+      {
+        "nome": "GARRAFA DE AGUA 500ML",
+        "img": "https://tb0932.vtexassets.com/arquivos/ids/162415-800-auto?v=637705334878500000&width=800&height=auto&aspect=true",
+        "preco": "2,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GARRAFA DE AGUA 1,5",
+        "img": "https://img.kalunga.com.br/fotosdeprodutos/348223z.jpg",
+        "preco": "4,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GARRAFA DE AGUA COM GAS 500ML",
+        "img": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/983651-17-02-2023-17-00-15-288.jpg",
+        "preco": "3,00",
+        "disponivel": "disponivel"
+      },
+  
+      {
+        "nome": "REFRIGERANTE COCA COLA 2L",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0K8LhRDcJ_XTadYPSo_-NnevOE7Y7Oo3Xow&usqp=CAU",
+        "preco": "10,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE COCA COLA RETORNAVEL 2L",
+        "img": "https://loja.supermerclick.com.br/image/cache/catalog/produtos-integracao/003854-omie___coca-cola-retornavel-2litros__conv-1000x1000.jpg",
+        "preco": "7,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE GUARANA ANTARCTICA 2L",
+        "img": "https://m.media-amazon.com/images/I/51GYR4rO8+L.jpg",
+        "preco": "8,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE FANTA LARANJA 2L",
+        "img": "https://emporiokaminski.com.br/wp-content/uploads/2020/07/Refrigerante-Fanta-Laranja-2l.jpg",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE FANTA UVA 2L",
+        "img": "https://ibassets.com.br/ib.item.image.big/b-e0860e973a7b4c959dda080fd1676664.jpeg",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE CONVENÇÃO FRUTAINA 2L",
+        "img": "https://media.cotabest.com.br/media/sku/refrigerante-frutaina-pet-2-litros-convencao-un.png",
+        "preco": "5,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE CONVENÇÃO GUARANA 2L",
+        "img": "https://img.sitemercado.com.br/produtos/6ab0fbd376465e3de3a8a29e0cdfb67e7ea3246596f39cbc86410a5713331b4b_full.jpg",
+        "preco": "5,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE CONVENÇÃO LIMÃO 2L",
+        "img": "https://img.sitemercado.com.br/produtos/fbf03f25674f995eda5903b01fceb0f60ef2cd4fab30e72cca8620ccbe195b85_full.jpg",
+        "preco": "5,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE COCA COLA LATA 350ML",
+        "img": "https://cdn.awsli.com.br/2500x2500/1330/1330028/produto/51587131/54283d8dbd.jpg",
+        "preco": "3,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE COCA COLA ZERO LATA 350ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/103/24661103.jpg",
+        "preco": "4,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE SPRITE LATA 350ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/952/24996952.png",
+        "preco": "3,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE FANTA LARANJA LATA 350ML",
+        "img": "https://static.clubeextra.com.br/img/uploads/1/901/25336901.jpg",
+        "preco": "3,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE COCA COLA 200ML",
+        "img": "https://www.festafacilbetim.com.br/wp-content/uploads/2023/10/COCA-COLA-MINI-PET-200ML.jpg",
+        "preco": "2,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE FANTA LARANJA 200ML",
+        "img": "https://mercantilnovaera.vtexassets.com/arquivos/ids/187751/Refrigerante-de-Laranja-FANTA-Garrafinha-200ml.jpg?v=637681693274630000",
+        "preco": "2,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "REFRIGERANTE GUARANÁ ANTARCTICA 2L",
+        "img": "https://carrefourbrfood.vtexassets.com/arquivos/ids/23987114/5703514_1.jpg?v=637684267037230000",
+        "preco": "2,50",
+        "disponivel": "disponivel"
+      },
+  
+      {
+        "nome": "SUCO DEL VALLE LARANJA 250ML",
+        "img": "https://poupafarma.vtexassets.com/arquivos/ids/162825/28032708-suco-del-valle-fresh-sabor-laranja-250ml.jpg?v=637984146600900000",
+        "preco": "2,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "SUCO SUFRESH MORANGO 1L",
+        "img": "https://mambodelivery.vtexassets.com/arquivos/ids/174784/nc3a9ctar-de-morango-sufresh-1-litro.jpg?v=637883336212630000",
+        "preco": "6,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "SUCO GATORADE DE MARACUJA 500ML",
+        "img": "https://emporiokaminski.com.br/wp-content/uploads/2020/07/Hidroto%CC%82nico-Gatorade-Maracuja%CC%81-500ml.jpg",
+        "preco": "7,00",
+        "disponivel": "disponivel"
+      },
+  
+      {
+        "nome": "ENERGÉTICO MONSTER TRADICIONAL 473ML",
+        "img": "https://loja.supermerclick.com.br/image/cache/catalog/produtos-integracao/004236-00004260585004247-1000x1000.jpg",
+        "preco": "9,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO MONSTER MANGO LOCO 473ML",
+        "img": "https://www.drogariaminasbrasil.com.br/media/product/1c9/energetico-juice-mango-loco-473ml-monster-8cf.jpg",
+        "preco": "9,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO RED BULL TRADICIONAL 250ML",
+        "img": "https://diawine.agilecdn.com.br/14967_1.jpg",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO RED BULL MELANCIA 250ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/50/24901050.jpg",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO RED BULL TROPICAL 250ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/230/24804230.jpg",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO RED BULL AÇAÍ 250ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/610/652610.PNG",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO RED BULL COCO 250ML",
+        "img": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/32965/medium/energetico-red-bull-energy-drink-coco-e-acai-250ml_87278.png",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO BALY MELANCIA 2L",
+        "img": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/54844/medium/energetico-baly-2l-pet-melancia_102733.png",
+        "preco": "10,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO BALY TROPICAL 2L",
+        "img": "https://d2r9epyceweg5n.cloudfront.net/stores/001/184/939/products/energetico-baly-frutas-tropicais-2l1-57608fbb52f1efed9e15892302217656-1024-1024.png",
+        "preco": "10,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO BALY MAÇA VERDE 2L",
+        "img": "https://tezbys.vtexassets.com/arquivos/ids/195305/Principal.jpg?v=637903145712230000",
+        "preco": "10,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO BALY FRUTAS VERMELHAS 2L",
+        "img": "https://apoioentrega.vteximg.com.br/arquivos/ids/522455/223341.png?v=638204513980400000",
+        "preco": "10,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "ENERGÉTICO VIBE 2L",
+        "img": "https://distribuidorameg.com/wp-content/uploads/2020/12/05ca36dcd0cc21d79b4adb63be1dade643478f0c5ee00eb240b10272429134c0_full.jpg",
+        "preco": "9,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA AMSTEL LATA 269ML",
+        "img": "https://www.sondadelivery.com.br/img.aspx/sku/1545752/530/7896045505319_0.jpg",
+        "preco": "3,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA BUDWEISER LATA 269ML",
+        "img": "https://ferrosdoces.fbitsstatic.net/img/p/cerveja-budweiser-lata-269ml-73331/259842-1.jpg?w=420&h=420&v=no-change&qs=ignore",
+        "preco": "3,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA HEINEKEN LATA 269ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/1/23747001.png",
+        "preco": "4,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA IMPÉRIO LATA 269ML",
+        "img": "https://nossadistribuidorabebidas.com.br/wp-content/uploads/2021/11/Cerveja-Imperio-269ml.png",
+        "preco": "3,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA ITAIPAVA LATA 269ML",
+        "img": "https://redemix.vteximg.com.br/arquivos/ids/197146-1000-1000/7897395040307.jpg?v=637938550739400000",
+        "preco": "2,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA ORIGINAL LATA 269ML",
+        "img": "https://trend-files-public-prod.s3.us-east-1.amazonaws.com/products/photos/2023/5/2e69bd1e-5709-4af8-a000-9de92ef0e2e7.png",
+        "preco": "3,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA SKOL LATA 269ML",
+        "img": "https://m.media-amazon.com/images/I/51+TfaRFiIL.jpg",
+        "preco": "3,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA SPATEN LATA 269ML",
+        "img": "https://www.sondadelivery.com.br/img.aspx/sku/1000043131/530/7891991303347_99_1_1200_72_RGB.jpg",
+        "preco": "3,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA BRAHMA D.M. LATA 350ML",
+        "img": "https://www.sondadelivery.com.br/img.aspx/sku/1000033919/530/7891991294942-(1).jpg",
+        "preco": "4,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA SKOL LATÃO 550ML",
+        "img": "https://apoioentrega.vteximg.com.br/arquivos/ids/505828/7891149104123.jpg?v=637897121894300000",
+        "preco": "6,00",
+        "disponivel": "disponivel"
+      },
+  
+      {
+        "nome": "CAIXA CERVEJA AMSTEL LATA 269ML",
+        "img": "https://morumbi.bujaotabacaria.com.br/wp-content/uploads/2022/07/CAIXA-AMSTEL-269-12UN.webp",
+        "preco": "31,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA BUDWEISER LATA 269ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/171/24778171.jpg",
+        "preco": "26,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA HEINEKEN LATA 269ML",
+        "img": "https://swiftbr.vteximg.com.br/arquivos/ids/190444-768-768/620031_HEINEKEN-269ML--CAIXA-_2.png?v=638224338090630000",
+        "preco": "30,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA IMPÉRIO LATA 269ML",
+        "img": "https://cdn.awsli.com.br/2500x2500/292/292155/produto/15336467/8474974136.jpg",
+        "preco": "30,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA ITAIPAVA LATA 269ML",
+        "img": "https://media.soujusto.com.br/products/11633.jpg",
+        "preco": "25,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA ORIGINAL LATA 269ML",
+        "img": "https://samsclub.vtexassets.com/arquivos/ids/174820-800-auto?v=637963394426200000&width=800&height=auto&aspect=true",
+        "preco": "25,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA SKOL LATA 269ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/721/24797721.jpg",
+        "preco": "38,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA SPATEN LATA 269M",
+        "img": "https://www.adegadobonfa.com.br/produtos/fotos/grande/596-spaten-pack-lata-8-x-269ml.png",
+        "preco": "25,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA BRAHMA D.M. LATA 350ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/43/19537043.jpg",
+        "preco": "42,50",
+        "disponivel": "disponivel"
+      },
+  
+      {
+        "nome": "CERVEJA BUDWEISER LONG 330ML",
+        "img": "https://loja.srfilet.com.br/cdn/shop/products/budw_700x700.jpg?v=1654611269",
+        "preco": "5,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA CORONA LONG 330ML",
+        "img": "https://teravirt.s3-accelerate.amazonaws.com/uploads/sites/95/2021/09/cerveja-long-neck-330ml-corona-extra-un.jpg",
+        "preco": "7,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA HEINEKEN LONG 330ML",
+        "img": "https://cdn.awsli.com.br/1231/1231345/produto/56408820/64708c5799.jpg",
+        "preco": "6,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CERVEJA HEINEKEN ZERO LONG 330ML",
+        "img": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/34336/medium/cerveja-heineken-330ml-lneck-00_82978.png",
+        "preco": "6,50",
+        "disponivel": "disponivel"
+      },
+  
+      {
+        "nome": "CAIXA CERVEJA BUDWEISER LONG 330ML",
+        "img": "https://superprix.vteximg.com.br/arquivos/ids/213914-600-600/7c66d22b5a06534fa9965bf3e78f18ba_cerveja-budweiser-330ml-pack-c-6-unidades---long-neck-_lett_1.jpg?v=638212394450900000",
+        "preco": "29,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA CORONA LONG 330ML",
+        "img": "https://storage.googleapis.com/phygital_files/nortesul/uploads/produto/cerveja_corona_extra_330ml_ln_62e7e772-5454-4b1a-a857-9ac32d9243ab.jpg",
+        "preco": "37,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA HEINEKEN LONG 330ML",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm1jXQGOsAUQKVEqs8lFGjRwFMWXbZJCX59yQ-7YDDnCIAXHKcjTz1U9DU8iqdgHfkew&usqp=CAU",
+        "preco": "36,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA CERVEJA HEINEKEN ZERO LONG 330ML",
+        "img": "https://lojaqui.com.br/images/produtos/site/55717.jpg",
+        "preco": "37,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA SKOL BEATS SENSE LONG 269ML",
+        "img": "https://choppbrahmaexpress.vtexassets.com/arquivos/ids/156954/4f213a617607f502b98cc14501076381_drink-pronto-skol-beats-senses-313ml-long-neck-pack-c-6_lett_1.jpg?v=637711252874170000",
+        "preco": "37,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CAIXA SKOL BEATS LONG 269ML",
+        "img": "https://choppbrahmaexpress.vtexassets.com/arquivos/ids/156678-800-auto?v=637623997267200000&width=800&height=auto&aspect=true",
+        "preco": "37,00",
+        "disponivel": "disponivel"
+      },  
+      {
+        "nome": "WHISKY BALLANTINES FINEST 1L",
+        "img": "https://trend-files-public-prod.s3.us-east-1.amazonaws.com/products/photos/2021/10/bbf4bd20-a535-4d0b-8362-9e150878eab0.jpg",
+        "preco": "80,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY RED LABEL 1L",
+        "img": "https://m.media-amazon.com/images/I/61k+AKCaDgL.jpg",
+        "preco": "97,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY BLACK LABEL 1L",
+        "img": "https://carrefourbrfood.vtexassets.com/arquivos/ids/97509028/whisky-johnnie-walker-black-label-1l-1.jpg?v=638100838208600000",
+        "preco": "155,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY DOUBLE BLACK 1L",
+        "img": "https://m.media-amazon.com/images/I/61HazVB4rkL.jpg",
+        "preco": "190,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY GOLD LABEL RESERVE 750ML",
+        "img": "https://dkolopwjqarcp.cloudfront.net/Custom/Content/Products/07/44/0744_johnnie-walker-gold-label-reserve-750ml_z1_637660212544685500.jpg",
+        "preco": "260,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY BUCHANANS DELUXE 1L",
+        "img": "https://diageo.vtexassets.com/arquivos/ids/163464-800-800?v=638294277978570000&width=800&height=800&aspect=true",
+        "preco": "170,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY CHIVAS REGAL 1L",
+        "img": "https://m.media-amazon.com/images/I/51pLvcYPoYL.jpg",
+        "preco": "140,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY COCKLAND GOLD 1L",
+        "img": "https://images.tcdn.com.br/img/img_prod/1199398/whisky_cockland_gold_1l_419_1_96b8c2228b8d390389a888d9b507f011.jpg",
+        "preco": "38,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY JACK DANIELS WHISKEY 1L",
+        "img": "https://m.media-amazon.com/images/I/61+XosyvBcL.jpg",
+        "preco": "130,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY JACK DANIELS APPLE 1L",
+        "img": "https://m.media-amazon.com/images/I/71krnUElKKL.jpg",
+        "preco": "135,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY JACK DANIELS FIRE 1L",
+        "img": "https://static.paodeacucar.com/img/uploads/1/170/13359170.jpg",
+        "preco": "135,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY JACK DANIELS HONEY 1L",
+        "img": "https://m.media-amazon.com/images/I/81biVFnBj9L.jpg",
+        "preco": "135,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY JACK DANIEL GENTLEMAN 1L",
+        "img": "https://images.tcdn.com.br/img/img_prod/686651/whiskey_jack_daniel_s_gentleman_jack_1l_15503768_1_20190308181636.jpg",
+        "preco": "210,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY JIM BEAM WHITE BOURBOM 1L",
+        "img": "https://www.emporiofreicaneca.com.br/wp-content/uploads/2020/05/Whiskey-Jim-Beam-White-Bourbon-1L.png",
+        "preco": "100,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY CHANCELER GOLDEN LABEL 1L",
+        "img": "https://http2.mlstatic.com/D_Q_NP_996964-MLU50585135489_072022-O.webp",
+        "preco": "20,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY OLD PARR 1L",
+        "img": "https://media.cotabest.com.br/media/sku/whisky-escoces-old-parr-garrafa-1litro-old-parr-un-80a381562b.jpg",
+        "preco": "145,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY PASSPORT SCOTCH 1L",
+        "img": "https://m.media-amazon.com/images/I/51UYCrFpn5S.jpg",
+        "preco": "45,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY WHITE HORSE 1L",
+        "img": "https://cdn.awsli.com.br/600x450/91/91186/produto/3259990/white-horse-01-ta7mwzc8iv.jpg",
+        "preco": "75,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "WHISKY WHITE HORSE 500ML",
+        "img": "https://cdn.dooca.store/16278/products/pxkcnlazriwgccgvrlvuumog70p7q251dkwh.png?v=1646833740&webp=0",
+        "preco": "42,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN BEEFEATER LONDON DRY 750ML",
+        "img": "https://images.tcdn.com.br/img/img_prod/584235/gin_london_dry_750ml_beefeater_438982601_1_df803eb379e13711923189743eaa4918.jpg",
+        "preco": "95,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN BEEFEATER PINK LOMDON 700ML",
+        "img": "https://cdn.awsli.com.br/1231/1231345/produto/54423933/21666e55ad.jpg",
+        "preco": "120,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN BOMBAY SAPPHIRE 750ML",
+        "img": "https://www.emporiofreicaneca.com.br/wp-content/uploads/2018/11/gin-bombay.png",
+        "preco": "95,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN ETERNITY LONDON DRY 900ML",
+        "img": "https://www.melobebida.com.br/img/products/gin-eternity-london-dry-gin-900ml-10144_1_650.jpg",
+        "preco": "20,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN ETERNITY WATERMELON 900ML",
+        "img": "https://diadistribuicao.agilecdn.com.br/19380_1.jpg",
+        "preco": "20,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN ETERNITY MAÇA VERDE 900ML",
+        "img": "https://images.tcdn.com.br/img/img_prod/1161470/gin_eternity_maca_verde_900ml_3013_1_45f9c8056b13f18e26f91e0220a7ecc0.jpg",
+        "preco": "20,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN GORDONS LONDON DRY 750ML",
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToTbr30ee5yBoouamsg1uaW_dWpvBkLKJG0lZQJDFAEatsEhKo",
+        "preco": "78,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN GORDONS PREMIUN PINK 700ML",
+        "img": "https://diageo.vtexassets.com/arquivos/ids/162977-800-800?v=638248493930400000&width=800&height=800&aspect=true",
+        "preco": "78,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN ROCKS SECO 1L",
+        "img": "https://images.tcdn.com.br/img/img_prod/1213476/gin_rocks_dry_1_litro_2375_1_bddfaf0ed7fcf3159b2a06d12e42a4d4.jpg",
+        "preco": "32,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN ROCKS DOCE 1L",
+        "img": "https://http2.mlstatic.com/D_Q_NP_943886-MLU48308038245_112021-O.webp",
+        "preco": "32,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN TANQUERAY LONDON DRY 750ML",
+        "img": "https://diageo.vtexassets.com/arquivos/ids/162941-800-800?v=638247663115800000&width=800&height=800&aspect=true",
+        "preco": "110,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ASKOV 900ML",
+        "img": "https://apoioentrega.vteximg.com.br/arquivos/ids/525858/https---repo-outsystems.png?v=638279246323200000",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ASKOV LIMÃO 900ML",
+        "img": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/o/vodka_askov_900ml_lim_o.jpg",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ASKOV BLUEBERRY 900ML",
+        "img": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/o/vodka_askov_900ml_blueberry_1.jpg",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        
+        "nome": "VODKA ASKOV MARACUJA 900ML",
+        "img": "https://media.cotabest.com.br/media/sku/vodka-sabor-maracuja-garrafa-de-900ml-a-1litro-askov-un.png",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ASKOV FRUTAS VERMELHAS 900ML",
+        "img": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/2624_big.jpg",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ABSOLUT 1L",
+        "img": "https://images.tcdn.com.br/img/img_prod/686651/vodka_absolut_1l_14084461_1_e79c65d9e15ffe1e49f060f3acd516cf.jpg",
+        "preco": "95,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ABSOLUT MANGO 1L",
+        "img": "https://cdn.awsli.com.br/600x700/2545/2545448/produto/218996307/absolut-mango-5pdvoew5qw.jpg",
+        "preco": "95,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA ABSOLUT WATERMELON 1L",
+        "img": "https://m.media-amazon.com/images/I/71bpGOo9wGL.jpg",
+        "preco": "95,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA SMIRNOFF 998ML",
+        "img": "https://images.tcdn.com.br/img/img_prod/1161470/vodka_smirnoff_red_998_ml_2093_1_dede92e16b127675e5dd6589382f0fbe.jpeg",
+        "preco": "38,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO BLACK MENTHOL VERDE",
+        "img": "https://cdn.awsli.com.br/800x800/861/861234/produto/1729112603e4e576b7c.jpg",
+        "preco": "17,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO BLACK MENTHOL VERMELHO",
+        "img": "https://cdn.awsli.com.br/300x300/2519/2519941/produto/188459880/44538674da.jpg",
+        "preco": "17,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO L.A MENTHOL",
+        "img": "https://imagens.jotaja.com/produtos/2d8f2d65-daf9-42c9-93cf-9358f39ee579.jpg",
+        "preco": "14,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO CARLTON / DUNHILL",
+        "img": "https://cdn.awsli.com.br/300x300/2612/2612721/produto/222081746/cigarro_dunhill_carlton_blend_8e19936c-d856-4914-bf18-8892beeb04e4-z8n402s31b.png",
+        "preco": "11,75",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO CAMEL DOUBLE",
+        "img": "https://teravirt.s3-accelerate.amazonaws.com/uploads/sites/95/2021/09/IMG511-2.jpg",
+        "preco": "11,75",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO CAMEL DOUBLE MINT / RED",
+        "img": "https://teravirt.s3-accelerate.amazonaws.com/uploads/sites/95/2021/06/IMG513-1.jpg",
+        "preco": "11,75",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO CHESTERFIELD TERRAS BRASILEIRAS BLUE",
+        "img": "https://cdn.awsli.com.br/600x700/2480/2480526/produto/206194066/chesterfield-tb-blue-box-kryjyx.jpg",
+        "preco": "6,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO CHESTERFIELD TERRAS BRASILEIRAS ORAGE",
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFWD3aYYISOaROkiGrMcofrKwX_wU6R4DhE_Uv6YaRWlbAqAbM",
+        "preco": "6,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO GUDANG GARAM TRADICIONAL",
+        "img": "https://cdn.awsli.com.br/800x800/1373/1373609/produto/181937503/design-sem-nome--1--k4wdw2s3as.png",
+        "preco": "20,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO MARLBORO GOLD",
+        "img": "https://nildoadega.com.br/wp-content/uploads/2021/05/CIGARRO-MARLBORO-GOLD.jpg",
+        "preco": "11,75",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO MARLBORON ICE BURST MENTHOL",
+        "img": "https://s3-sa-east-1.amazonaws.com/bluesoft-erp/alabarce/ecommerce/produtos/fotos/8367048b-7463-40da-87e4-1f57cd248c9b/foto_large.jpg",
+        "preco": "11,75",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO MARLBORO TROPICAL FUSION",
+        "img": "https://instadelivery-public.nyc3.cdn.digitaloceanspaces.com/itens/16865027906485fd86ac3c7_75_75.jpeg",
+        "preco": "12,25",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO ROTHMANS SIGNATURE BLUE",
+        "img": "https://cdn.awsli.com.br/500x500/2480/2480526/produto/206196629/rothmans-blue-box-xlitjj.jpg",
+        "preco": "6,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO ROTHMANS SERIES RED",
+        "img": "https://storage.googleapis.com/phygital_files/catalogo/uploads/produto/cigarro_red_rothmans_series_box_cf11c49e-d83c-48a9-86a5-105af039add1.png",
+        "preco": "6,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO ROTHMANS RED GLOBAL",
+        "img": "https://storage.googleapis.com/phygital_files/copagril/uploads/produto/cigarro_rothmans_red_global_connections_box_c_20_ff1b2010-9961-4f2c-aaab-47c9c410fea9.jpg",
+        "preco": "6,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO ROTHMANS INTERNATIONAL DOUBLE CLICK",
+        "img": "https://storage.googleapis.com/phygital_files/superitaipu/uploads/produto/cigarro_rothmans_box_white_red_959eba2a-d832-460b-87e6-1aef0ce30bbd.jpg",
+        "preco": "8,75",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO WINSTON BLUE",
+        "img": "https://s3-sa-east-1.amazonaws.com/files-sc.sigecloud.com.br/Producao/a7222a48-ed4e-477a-b64a-c8bd403ab01f/ImagensProdutos/61267d6cfe1ad80e9c910f89_600x600.jpeg",
+        "preco": "6,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CIGARRO WINSTON RED",
+        "img": "https://www.oasisbebidas.com.br/image/cache/data/produtos/tabacaria/winstonselectblend-926x926.png",
+        "preco": "6,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VINHO DOM BOSCO SUAVE 750ML",
+        "img": "https://casaspedro.vteximg.com.br/arquivos/ids/173442-1000-1000/vinho-dom-bosco-tinto-suave-750ml.png?v=637883038254700000",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VINHO PÉRGOLA TINTO SUAVE 1L",
+        "img": "https://images-americanas.b2w.io/produtos/26211931/imagens/vinho-tinto-nacional-blend-pergola-suave-1-litro/26211929_1_large.jpg",
+        "preco": "23,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CHOPP DE VINHO DRAFT 600ML",
+        "img": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/9080_big.jpg",
+        "preco": "23,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VINHO SUAVE CANTINHO DO VALE 880ML",
+        "img": "https://i0.wp.com/braganca.com.br/wp-content/uploads/2023/06/cantinho-do-vale-880ml.jpg?fit=1000%2C1000&ssl=1",
+        "preco": "5,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VINHO SUAVE CANTINHO DO VALE 2L",
+        "img": "https://a-static.mlcdn.com.br/450x450/vinho-composto-cantinho-do-vale-tinto-suave-pet-2l/lstcomerciodebebidaseutensilios/357/c58000c7ae3bb7e48b0a6de1fad84abb.jpeg",
+        "preco": "9,00",
+        "disponivel": "disponivel" 
+      },
+      {
+        "nome": "GIN TONICA QN BOTANICS FRUTAS VERMELHA LONG 355ML",
+        "img": "https://santaadega.eriklima.me/wp-content/uploads/2022/03/Gin-QN-Botanics-Frutas-Vermelhas.jpg",
+        "preco": "7,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "GIN TONICA QN BOTANICS MELANCIA LONG 355ML",
+        "img": "https://img.sitemercado.com.br/produtos/8ea982969baeb8a5f21cf78d70f52c3ec14a2144ea5412a8efc9e1edae4bfbdf_full.jpg",
+        "preco": "7,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "SKOL BEATS GT GIN TONICA LONG 269ML",
+        "img": "https://naturaldaterra.com.br/media/catalog/product/1/5/155322_skol_beats_gin_tonica_long_neck_269ml.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "SKOL BEATS SENSES LONG 269ML",
+        "img": "https://static.paodeacucar.com/img/uploads/1/722/23546722.png",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "VODKA SMIRNOFF ICE ORIGINAL 275ML",
+        "img": "https://m.media-amazon.com/images/I/51GwqDrem3L.jpg",
+        "preco": "8,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "LICOR 43 700ML",
+        "img": "https://t73910.vtexassets.com/arquivos/ids/156813-800-auto?v=637642899664670000&width=800&height=auto&aspect=true",
+        "preco": "135,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "LICOR BALLENA 750ML",
+        "img": "https://images.tcdn.com.br/img/img_prod/907279/licor_ballena_750ml_24325_1_84743a6a5f5005565551adff074a0d6d.jpg",
+        "preco": "120,00",
+        "disponivel": "disponivel"
+      },
+      { 
+        "nome": "CACHAÇA PIRASSUNUNGA 51 965ML",
+        "img": "https://m.media-amazon.com/images/I/51kYu54eu3L.jpg",
+        "preco": "12,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA PITÚ LATA 350ML",
+        "img": "https://distribuidorameg.com/wp-content/uploads/2021/08/3b58de9fdf.jpg",
+        "preco": "5,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA VELHO BARREIRO 910ML",
+        "img": "https://m.media-amazon.com/images/I/51omypO9-7S.jpg",
+        "preco": "15,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA PARATUDO 900ML",
+        "img": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/1382.jpg",
+        "preco": "16,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA YPIÓCA OURO 965ML",
+        "img": "https://media.soujusto.com.br/products/7896383700681.jpg",
+        "preco": "20,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA JURUPINGA 975ML",
+        "img": "https://images-americanas.b2w.io/produtos/2173921730/imagens/cachaca-jurupinga-975ml/2173921748_1_large.jpg",
+        "preco": "29,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA KARIRI COM K OURO 960ML",
+        "img": "https://tfdbat.vtexassets.com/arquivos/ids/5511963/58808_1.jpg?v=638212258404900000",
+        "preco": "18,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CACHAÇA ENVELHECIDA SÃO FRANCISCO 970ML",
+        "img": "https://images-americanas.b2w.io/produtos/6942563552/imagens/cachaca-envelhecida-sao-francisco-garrafa-970ml/6942563552_1_large.jpg",
+        "preco": "33,50",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CONHAQUE DREHER 900ML",
+        "img": "https://m.media-amazon.com/images/I/61P7PciE76L.jpg",
+        "preco": "22,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "MEL ITAJAI 1,25KG",
+        "img": "https://acdn.mitiendanube.com/stores/002/637/256/products/1531521-936a8015b1060aa5b116733605391406-640-0.png",
+        "preco": "14,00",
+        "disponivel": "disponivel"
+      },
+      {
+        "nome": "CATUABA SELVAGEM 900ML",
+        "img": "https://media.cotabest.com.br/media/sku/catuaba-garrafa-900ml-selvagem-un-82624ff87d.jpg",
+        "preco": "16,50",
+        "disponivel": "disponivel"
+      }
+    ]
+  }
+  

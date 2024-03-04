@@ -1,0 +1,325 @@
+@charset "UTF-8";
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabecalho {
+  width: 100%;
+  height: 250px;
+  background: linear-gradient(to top, rgb(14, 14, 14), rgb(53, 53, 53));
+
+  position: relative;
+  z-index: 2; /* Um valor mais alto que o z-index da div principal */
+}
+
+#cabecalho #redes {
+  max-width: 1600px;
+  margin: auto;
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  color: white;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+
+#cabecalho #rede1 {
+  width: 50%;
+}
+
+#cabecalho #rede2 {
+  width: 50%;
+  text-align: right;
+}
+
+#redes a {
+  color: white;
+  text-decoration: none;
+  transition-duration: 0.3s;
+  padding: 10px;
+  text-shadow: rgba(0, 0, 0, 0.164) 4px 4px 2px;
+  border-radius: 10px;
+}
+
+#redes a:hover {
+  background-color: white;
+  color: black;
+  padding: 10px;
+}
+
+#cabecalho #titulo {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#cabecalho #titulo1 {
+  padding: 20px 10px;
+}
+
+#cabecalho #titulo1 p {
+  color: white;
+  font-size: 20px;
+  text-shadow: rgba(0, 0, 0, 0.459) 4px 4px 2px;
+  font-weight: bold;
+}
+
+#cabecalho #titulo1 h1 {
+  color: rgb(252, 209, 69);
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-shadow: rgba(0, 0, 0, 0.459) 4px 4px 2px;
+}
+
+@media (max-width: 450px) {
+  #cabecalho #redes {
+    font-size: 14px;
+  }
+
+  #cabecalho #titulo1 h1 {
+    font-size: 27px;
+  }
+
+  #cabecalho #titulo1 p {
+    font-size: 18px;
+  }
+}
+
+@media (max-width:370px) {
+  #cabecalho #redes {
+    font-size: 12px;
+  }
+}
+
+
+/*Navegação*/
+
+#navegacao {
+  width: 450px;
+  margin: auto;
+  text-align: center;
+}
+
+#navegacao .botao {
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#navegacao a {
+  color: black;
+  text-decoration: none;
+}
+
+#navegacao #categorias {
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+#navegacao #listaCategorias {
+  width: 400px;
+  background-color: #ddd;
+  display: none;
+  padding: 10px;
+  margin-left: 15px;
+  border-radius: 5px;
+  text-align: center;
+  position: absolute;
+  box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.282);
+}
+
+#navegacao #listaCategorias #botaoCategoria {
+  background-color: gray;
+  color: white;
+  font-size: 14px;
+  padding: 5px;
+  margin: 4px;
+  border-radius: 5px;
+}
+
+#navegacao #listacategorias {
+  width: 100px;
+}
+
+#navegacao #barraPesquisa {
+  width: 360px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+#navegacao #lpc {
+  margin: auto;
+  margin-right: 19px;
+  margin-top: 0.2px;
+  max-width: 400px;
+  max-height: 450px;
+  /* Defina o limite de altura desejado */
+  overflow-y: auto;
+  /* Adiciona uma barra de rolagem vertical quando necessário */
+  
+}
+
+#navegacao #lpc {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+/* Para navegadores WebKit (Chrome, Safari) */
+#navegacao #lpc::-webkit-scrollbar {
+  width: 12px;
+}
+
+#navegacao #lpc::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+
+#navegacao #lpc::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+/* Para Firefox */
+#navegacao #lpc {
+  scrollbar-width: thin;
+}
+
+#navegacao #lpc::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+
+#navegacao #lpc::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#navegacao .lp {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#navegacao #listaProdutos {
+  width: 100%;
+  display: none;
+}
+
+#navegacao li {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  border: 1px solid #ddd;
+  background: white;
+  padding: 5px;
+  margin: auto;
+
+  padding: 8px;
+  /* Adiciona algum espaço interno para melhorar a aparência dos itens */
+  border-bottom: 1px solid #eee;
+  /* Adiciona uma linha divisória entre os itens */
+}
+
+#navegacao li:last-child {
+  border-bottom: none;
+  /* Remove a linha divisória do último item */
+}
+
+#navegacao li a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 13px;
+  color: black;
+  background: transparent;
+}
+
+#navegacao li p {
+  display: contents;
+  flex-direction: column;
+  font-size: 15px;
+}
+
+#navegacao li img {
+  width: 80px;
+  height: 80px;
+}
+
+#navegacao li #nomeProduto {
+  text-align: left;
+  margin-left: 15px;
+  min-width: 200px;
+  max-width: 200px;
+}
+
+#navegacao #disponivel {
+  font-size: 14px;
+}
+
+@media (max-width: 450px) {
+
+  #navegacao {
+    width: 400px;
+  }
+
+  #navegacao #barraPesquisa {
+    width: 300px;
+    margin-left: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  #navegacao {
+    width: 350px;
+  }
+
+  #navegacao li #nomeProduto {
+    min-width: 150px;
+    max-width: 150px;
+    font-size: 13px;
+  }
+}
+
+
+
+/*Princiapl*/
+
+#principal {
+  background-color: rgb(224, 224, 224);
+}
+
+
+
+#artigo {
+  max-width: 800px;
+  height: 400px;
+  margin: auto;
+  background-color: white;
+  padding: 10px;
+}
+
+/*Rodapé*/
+
+#rodape {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to top, black, rgb(53, 53, 53));
+}
